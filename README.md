@@ -20,3 +20,4 @@
 | Project | What | Stack |
 |---|---|---|
 | [**Chốt Lẹ**](https://github.com/tdathuynh/chot-le) | Cross-platform restaurant discovery app with group voting, maps, admin panel and natural-language search | TypeScript, Expo, Supabase (Postgres + RLS), Edge Functions, Claude |
+| [**MES Data Pipeline**](https://github.com/tdathuynh/mes-data-pipeline) | ETL pipeline and OEE dashboard for synthetic shop-floor data: validation, shift-aware transforms, KPI views (availability, performance, quality, downtime) | Python, pydantic, DuckDB, pandas, Streamlit, pytest, GitHub Actions |
