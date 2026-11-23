@@ -6,7 +6,7 @@
 - 🏭 **Day job:** Python data pipelines, SQL data models and MES software that turn shop-floor data into decisions
 - 📱 **Side project:** [Chốt Lẹ](https://github.com/tdathuynh/chot-le), a restaurant guide for Ho Chi Minh City on iOS, Android & Web ([live demo](https://chot-le.expo.app))
 - 🔐 I care about clean data models and security done right (Row Level Security, least privilege)
-- 📫 tdathuynh.2023@gmail.com
+- 📫 tdathuynh.2023@gmail.com · [LinkedIn](https://www.linkedin.com/in/dathuynh-data)
 
 ### Tech
 
